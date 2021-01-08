@@ -1,0 +1,2 @@
+if business_name is 'Contoso Ltd.' and name is 'Karen':
+    exception = 'Sorry Karen, you are not allowed to put in tickets anymore.'
